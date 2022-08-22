@@ -1,13 +1,6 @@
 import React from 'react'
-import {
-    Container,
-    AppBar,
-    Toolbar,
-    IconButton,
-    Typography,
-    Button,
-} from '@mui/material'
-import MenuIcon from '@mui/icons-material/Menu'
+import { Container, AppBar, Toolbar, Typography } from '@mui/material'
+import Menu from '../../components/Menu/Menu'
 
 type Props = {}
 
@@ -16,12 +9,14 @@ const Header = (props: Props) => {
         <AppBar position="static">
             <Container>
                 <Toolbar>
-                    A creative agency based in Helsinki.
                     <Typography
                         variant="h6"
                         component="div"
                         sx={{ flexGrow: 1 }}
-                    ></Typography>
+                    >
+                        A creative agency based in Helsinki.
+                    </Typography>
+                    <Menu />
                 </Toolbar>
             </Container>
         </AppBar>
