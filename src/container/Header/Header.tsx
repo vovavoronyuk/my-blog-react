@@ -1,6 +1,7 @@
 import React from 'react'
 import { Container, AppBar, Toolbar, Typography } from '@mui/material'
 import Menu from '../../components/Menu/Menu'
+import CartHeader from 'components/CartHeader/CartHeader'
 
 type Props = {}
 
@@ -17,6 +18,7 @@ const Header = (props: Props) => {
                         A creative agency based in Helsinki.
                     </Typography>
                     <Menu />
+                    <CartHeader />
                 </Toolbar>
             </Container>
         </AppBar>
