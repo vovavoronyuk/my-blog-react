@@ -1,6 +1,6 @@
 import React from 'react'
 import { Button } from '@mui/material'
-
+import '.src/components/Menu/MenuStyle.scss'
 type Props = {}
 
 const Menu = (props: Props) => {
