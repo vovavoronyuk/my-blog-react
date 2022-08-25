@@ -1,9 +1,9 @@
 import React from 'react'
-
+import './ProductList.scss'
 type Props = {}
 
 const ProductList = (props: Props) => {
-    return <div>ProductList</div>
+    return <></>
 }
 
 export default ProductList

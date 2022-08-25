@@ -2,7 +2,7 @@ import React from 'react'
 import { Container, AppBar, Toolbar, Typography } from '@mui/material'
 import Menu from '../../components/Menu/Menu'
 import CartHeader from 'components/CartHeader/CartHeader'
-
+import './Header.scss'
 type Props = {}
 
 const Header = (props: Props) => {
