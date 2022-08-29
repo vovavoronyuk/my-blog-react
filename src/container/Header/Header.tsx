@@ -22,6 +22,7 @@ const Header = (props: Props) => {
                         component="div"
                         sx={{
                             flexGrow: 1,
+                            color: '#747474',
                         }}
                     >
                         A creative agency based in Helsinki.
