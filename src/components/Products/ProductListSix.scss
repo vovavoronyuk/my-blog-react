@@ -1,0 +1,229 @@
+.container_pro_six{
+    position: absolute;
+    top: 6700px;
+    h1{
+        width: 400px;
+        position: absolute;
+        left: 120px;
+        top: 85px;
+        font-family: 'Roboto';
+        font-weight: 700;
+        font-size: 60px;
+        span{
+            font-weight: 400;
+            font-size: 57px;
+        }
+    }
+    .circle{
+        position: absolute;
+        width: 138px;
+        height: 138px;
+        left: 1181px;
+        top: 100px;
+        padding: 50px 27px 0 27px;
+        background: #000000;
+        border-radius: 69px;
+        color: white;
+        text-align: center;
+        letter-spacing: 1px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+    }
+    .one{
+        position: relative;
+        top: 300px;
+        left: 120px;
+        
+        button{
+            box-sizing: border-box;
+            position: absolute;
+           width: 113px;
+            height: 34px;
+            left: 0px;
+            top: 415px;
+            border: 1px solid #000000;
+            border-radius: 20px;
+            font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 12px;
+            background: #F5F5F5;
+           
+        }
+        button:hover{
+            background-color: black;
+            color: #F5F5F5;
+        }
+        h2{
+            position: absolute;
+            height: 63px;
+            left: 0%;
+            
+            top: 445px;
+
+            font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 26px;
+            
+        }
+        p{
+            position:absolute;
+            top: 550px;
+            font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 17px;
+            color: #8F8F8F;
+        }
+    }
+    .two{
+        position: absolute;
+        top: 300px;
+        left: 533px;
+        
+        button{
+            box-sizing: border-box;
+            position: absolute;
+           width: 113px;
+            height: 34px;
+            left: 0px;
+            top: 415px;
+            border: 1px solid #000000;
+            border-radius: 20px;
+            font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 12px;
+            background: #F5F5F5;
+           
+        }
+        button:hover{
+            background-color: black;
+            color: #F5F5F5;
+        }
+        h2{
+            position: absolute;
+            height: 63px;
+            left: 0%;
+            
+            top: 445px;
+
+            font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 26px;
+            
+        }
+        p{
+            position:absolute;
+            top: 550px;
+            font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 17px;
+            color: #8F8F8F;
+        }
+    }
+    .three{
+        position: absolute;
+        top: 300px;
+        left: 947px;
+        
+        button{
+            box-sizing: border-box;
+            position: absolute;
+           width: 113px;
+            height: 34px;
+            left: 0px;
+            top: 415px;
+            border: 1px solid #000000;
+            border-radius: 20px;
+            font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 12px;
+            background: #F5F5F5;
+           
+        }
+        button:hover{
+            background-color: black;
+            color: #F5F5F5;
+        }
+        h2{
+            position: absolute;
+            height: 63px;
+            left: -2%;
+            
+            top: 445px;
+
+            font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 26px;
+            
+        }
+        p{
+            position:absolute;
+            top: 550px;
+            font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 17px;
+            color: #8F8F8F;
+        }
+    }
+    .lets_talk{
+        position: absolute;
+        width: 1440px;
+        top: 1050px;
+        margin: 0;
+        height: 340px;
+        background: #020A0C;
+        h1{
+            width: 550px;
+            position: absolute;
+            font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 94px;
+            color: white;
+            margin: 0;
+            span{
+                font-weight: 400;
+                font-size: 66px;
+            }
+        }
+        p{
+            position: absolute;
+            height: 26px;
+            left: 121px;
+            top: 220px;
+            font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 21px;
+            line-height: 25px;
+            color: rgba(255, 255, 255, 0.5);
+        }
+        .circle-one{
+            position: absolute;
+            width: 138px;
+            height: 138px;
+            font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 14px;
+            line-height: 20px;
+            text-align: center;
+            letter-spacing: 1px;
+            left: 1189px;
+            top: 109px;
+            background: #FFFFFF;
+            border-radius: 69px;
+            padding: 50px 27px 0 27px;
+        }
+    }
+}
