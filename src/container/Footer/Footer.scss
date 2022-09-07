@@ -1,0 +1,109 @@
+.footer{
+    position: absolute;
+    top: 8090px;
+    height: 483px;
+    .footer-one{
+        position:absolute;
+        width: 450px;
+        left: 120px;
+        top: 74px;
+        h1{
+            font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 20px;
+            text-transform: uppercase;
+            padding: 20px 0 20px 0;
+        }
+        button{
+            position: absolute;
+            box-sizing: border-box;
+            position: absolute;
+            width: 154px;
+            height: 53px;
+            background: #000000;
+            border: 1px solid #000000;
+            border-radius: 40px;
+            color: white;
+            font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 15px;
+            cursor: pointer;
+            margin: 39px 0 29px 0;
+        }
+        button:hover{
+            background: white;
+            color: #000000;
+            cursor: pointer;
+        }
+        p{
+            font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 19px;
+            line-height: 25px;
+            color: #747474;
+        }
+        h2{
+            top: 120px;
+            position: relative;
+            font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 17px;
+            line-height: 22px;
+            color: #747474;
+            padding: 0 0 20px 0;
+        }
+    }
+    .footer-two{
+        position: absolute;
+        width: 200px;
+        left: 610px;
+        top: 166px;
+        h1{
+            font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 20px;
+            line-height: 30px;
+            padding: 0 0 20px 0;
+        }
+        p{
+            font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 18px;
+            margin: 0 0 15px 0;
+            cursor: pointer;
+          
+        }
+    }
+    .footer-three{
+        position: absolute;
+        top: 98px;
+        left: 1110px;
+        width: 300px;
+        img{
+            
+            padding: 0 30px 0 0;
+    }
+    h1{
+        margin: 59px 0 20px 23px;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 20px;
+    }
+    p{
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        color: #747474;
+        margin: 0 0 0 23px;
+
+    }
+    }
+}
