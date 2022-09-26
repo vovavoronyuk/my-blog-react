@@ -11,7 +11,7 @@ const Footer = (props: Props) => {
                 <h1>ADDRESS</h1>
                 <p>14 New South Head Rd</p>
                 <p>Triple Bay 3148</p>
-                <p>Triple Bay 3148</p>
+                <p>TLondon, UK</p>
                 <button>FIND ON MAP</button>
                 <h2>© This is a Deni Bozo template powered by Webflow.</h2>
             </div>

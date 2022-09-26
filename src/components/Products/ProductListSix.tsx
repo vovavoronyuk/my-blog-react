@@ -8,7 +8,7 @@ const ProductListSix = (props: Props) => {
             <h1>
                 OUR <span>BLOG</span>
             </h1>
-            <div className="circle">VIEW ALL POST</div>
+            <button className="circle">VIEW ALL POST</button>
             <div className="one">
                 <img src="images/11.png" alt="" />
                 <button>MARKETING</button>
@@ -32,7 +32,7 @@ const ProductListSix = (props: Props) => {
                     LET'S <span>TALK</span>
                 </h1>
                 <p>Feel free to contact us</p>
-                <div className="circle-one">VIEW ON DESIGNER</div>
+                <button className="circle-one">VIEW ON DESIGNER</button>
             </div>
         </div>
     )

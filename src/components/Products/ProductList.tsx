@@ -11,8 +11,7 @@ const ProductList = (props: Props) => {
             <p className="text_P">THE POWER OF DESIGN</p>
             <h1 className="text_product1">HELPS BUSINESSES.” </h1>
             <p className="email">hello@robi.com</p>
-            <p className="work_us">WORK WITH US</p>
-            <div className="curcle"></div>
+            <button className="work_us">WORK WITH US</button>
         </div>
     )
 }

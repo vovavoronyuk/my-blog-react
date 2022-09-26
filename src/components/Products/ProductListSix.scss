@@ -20,7 +20,7 @@
         height: 138px;
         left: 1181px;
         top: 100px;
-        padding: 50px 27px 0 27px;
+        padding: 8px 27px 0 27px;
         background: #000000;
         border-radius: 69px;
         color: white;
@@ -29,7 +29,13 @@
         font-family: 'Roboto';
         font-style: normal;
         font-weight: 400;
-        font-size: 14px;
+        font-size: 15px;
+        cursor: pointer;
+        border: 1px solid black;
+    }
+    .circle:hover{
+        background-color: white;
+        color: #000000;
     }
     .one{
         position: relative;
@@ -220,8 +226,8 @@
             height: 138px;
             font-family: 'Roboto';
             font-style: normal;
-            font-weight: 400;
-            font-size: 14px;
+            font-weight: 500;
+            font-size: 15px;
             line-height: 20px;
             text-align: center;
             letter-spacing: 1px;
@@ -229,7 +235,13 @@
             top: 109px;
             background: #FFFFFF;
             border-radius: 69px;
-            padding: 50px 27px 0 27px;
+            padding: 8px 27px 0 27px;
+            cursor: pointer;
+            border: none;
+        }
+        .circle-one:hover{
+            background-color: #676767;
+            color:white;
         }
     }
 }

@@ -74,33 +74,30 @@
        
         
     }
-    .curcle{
-
+    
+    .work_us{
         position: absolute;
         width: 138px;
         height: 138px;
-        left: 740px;
-        top: 675px;
+        
         background: #000000;
         border-radius: 69px;
-        z-index: 1;
-    }
-    .work_us{
-        position: absolute;
-        width: 83px;
-        height: 20px;
         left: 768px;
         top: 709px;
         font-family: 'Roboto';
         font-style: normal;
         font-weight: 400;
-        font-size: 14px;
-        line-height: 20px;
+        font-size: 15px;
+        border: 1px solid black;
         text-align: center;
         letter-spacing: 1px;
-
+        padding: 10px;
         color: white;
-z-index: 2;
+        cursor: pointer;
+    }
+    .work_us:hover{
+        background-color: white;
+        color: #000000;
     }
 }
 
