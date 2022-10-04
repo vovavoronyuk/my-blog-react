@@ -16,7 +16,7 @@ export default class MultipleItems extends Component {
         return (
             <div className="container_pro_four">
                 <h1>
-                    WHAT <span>THAY</span> THINK
+                    WHAT <span>THEY</span> THINK
                 </h1>
                 <Slider {...settings}>
                     <div className="box-one">
