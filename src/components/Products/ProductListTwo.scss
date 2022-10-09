@@ -7,33 +7,17 @@
         font-style: normal;
         font-weight: 400;
         font-size: 27px;
-        left: 400px;
+        margin-left: 203px;
         top: 949px;
         color: black;
+        span{
+            font-size: 22px;
+        }
     }
-    .forward{
-        position: absolute;
-        left: 659px;
-        top: 959px;
-        font-family: 'Roboto';
-        font-style: normal;
-        font-weight: 400;
-        font-size: 22px;
-        
-
-    }
-    .startups{
-        font-family: 'Roboto';
-        font-style: normal;
-        font-weight: 400;
-        font-size: 27px;
-        position: absolute;
-        left: 889px;
-        top: 949px;
-    }
+   
     .perfect{
         position: absolute;
-        left: 120px;
+        
         top: 1241px;
         font-family: 'Roboto';
         font-style: normal;
@@ -44,7 +28,7 @@
     .agency{
         position: absolute;
         height: 72px;
-        left: 120px;
+        
         top: 1315px;
         font-family: 'Roboto';
         font-style: normal;
@@ -54,16 +38,16 @@
     }
     .icon_two{
         position: absolute;
-        width: 1023px;
+       margin-left: 50px;
         height: 94px;
-        left: 241px;
+       
        top: 1030px;
     }
     .part_one{
         width: 379px;
         height: 99px;
         position: absolute;
-        left: 120px;
+       
         top: 1419px;
         font-family: 'Roboto';
         font-style: normal;
@@ -75,7 +59,7 @@
         width: 377px;
         height: 124px;
         position: absolute;
-        left: 120px;
+        
         top: 1539px;
         font-family: 'Roboto';
         font-style: normal;
@@ -87,7 +71,7 @@
         position: absolute;
         width: 300px;
         height: 200px;
-        left: 937px;
+        margin-left: 800px;
         top: 1474px;
         h5{
             word-spacing: 160px;
@@ -125,7 +109,7 @@
         position: absolute;
         width: 300px;
         height: 200px;
-        left: 937px;
+        margin-left: 800px;
         top: 1770px;
         h5{
             

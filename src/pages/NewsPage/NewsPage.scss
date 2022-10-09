@@ -1,0 +1,33 @@
+.flex{
+    flex-direction: row;
+    justify-content: space-between;
+    display: flex;
+    width: 100%;
+    row-gap: 1;
+    margin: 30px 0 0 0;
+    
+    img{
+        flex: auto;
+        object-fit: cover;
+        width: 160px;
+        height: 140px;
+        position: relative;
+    margin-right: 24px;
+    margin-top: 60px;
+    }
+}
+.w-full{
+    margin: 0;
+    
+    width: 100%;
+    display: flex;
+}
+.cursor{
+    color: blue;
+    font-weight: 700;
+    margin: 0;
+   
+}
+.text-2{
+    margin: 0;
+}

@@ -1,36 +1,39 @@
 .container_pro_four{
-    width: 90%;
-    top: 5166px;
-    position: absolute;
-    margin:  0 0 0 -90px ;
+   
+    top: 4995px;
+    position: relative;
+    
+    width: 100%;
     
     h1{
        
         
-        left: 420px;
+       
        margin-top: -200px;
         font-family: 'Roboto';
         font-weight: 700;
         font-size: 60px;
         margin-bottom: 100px;
-    margin-left: 400px;
+    margin-left: 300px;
         span{
             font-weight: 400;
             font-size: 42px;
         }
     }
+    
     .box-one{
         text-align: center;
         box-sizing: border-box;
         border: 1px solid #000000;
-        border-radius: 5px;
+        border-radius: 20px;
+        
        
       
         p{
           
             width: 362px;
             height: 106px;
-            margin-left: 53px;
+            margin-left: 0px;
             font-family: 'Roboto';
             font-weight: 400;
             font-size: 20px;
@@ -39,7 +42,7 @@
         }
         img{
             width: 150px;
-            margin-left: 155px;
+            margin-left: 112px;
         }
         h5{
            

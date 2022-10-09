@@ -4,24 +4,20 @@
    
     h1{
         position: absolute;
-        left:491px;
+        margin-left: 250px;
         top:2085px ;
         font-family: 'Roboto';
         font-weight: 700;
         font-size: 60px;
-    }
-    h2{
-        position: absolute;
-        left: 821px;
-        top:2092px;
-        font-family: 'Roboto';
-        font-style: normal;
-        font-weight: 400;
+        span{
+            font-weight: 400;
         font-size: 51px;
+        }
     }
+    
     .one{
         position: absolute;
-        left: 240px;
+        margin-left: 50px;
         top: 2220px;
         line-height: 0px;
         img{
@@ -42,12 +38,13 @@
             font-weight: 400;
             font-size: 18px;
             color: #747474;
+            margin-top: 35px;
             
         }
     }
     .two{
         position: absolute;
-        left: 730px;
+        margin-left: 560px;
         top: 2300px;
         line-height: 0px;
         img{
@@ -68,12 +65,13 @@
             font-weight: 400;
             font-size: 18px;
             color: #747474;
+            margin-top: 35px;
             
         }
     }
     .three{
         position: absolute;
-        left: 240px;
+        margin-left: 50px;
         top: 2816px;
         line-height: 0px;
         img{
@@ -94,12 +92,13 @@
             font-weight: 400;
             font-size: 18px;
             color: #747474;
+            margin-top: 35px;
             
         }
     }
     .four{
         position: absolute;
-        left: 730px;
+        margin-left: 560px;
         top: 2894px;
         line-height: 0px;
         img{
@@ -120,12 +119,13 @@
             font-weight: 400;
             font-size: 18px;
             color: #747474;
+            margin-top: 35px;
             
         }
     }
     .five{
         position: absolute;
-        left: 240px;
+        margin-left: 50px;
         top: 3412px;
         line-height: 0px;
         img{
@@ -146,12 +146,13 @@
             font-weight: 400;
             font-size: 18px;
             color: #747474;
+            margin-top: 35px;
             
         }
     }
     .six{
         position: absolute;
-        left: 730px;
+        margin-left: 560px;
         top: 3512px;
         line-height: 0px;
         img{
@@ -172,28 +173,29 @@
             font-weight: 400;
             font-size: 18px;
             color: #747474;
+            margin-top: 35px;
             
         }
     }
     .seven{
+        display: flex;
         
         img{
             position: absolute;
             height: 653px;
-            left: 750px;
+            margin-left: 580px;
             top: 4220px;
         }
         h1{
-            position: absolute;
-            height: 159px;
-            left: 191px;
-            right: 821px;
+            position: absolute;        
             top: 4330px;
-            font-family: 'Roboto';
+            font-family: "Roboto";
             font-weight: 700;
             font-size: 48px;
             line-height: 53px;
             letter-spacing: 1px;
+            width: 425px;
+            margin: 0;
             span{
                 font-weight: 400;
             }
@@ -201,8 +203,7 @@
             h5{
 
                 position: absolute;
-                left: 191px;
-                right: 872px;
+                
                 top: 4535px;
                 font-family: 'Roboto';
                 font-style: normal;
@@ -217,9 +218,9 @@
                 .text-one{
                     height: 50px;
                     position: absolute;
-                    right: 852px;
+                    
                     top: 4578px;
-                    left: 191px;
+                    width: 381px;
                     font-family: 'Roboto';
                     font-weight: 400;
                     font-size: 19px;
@@ -227,8 +228,7 @@
                 }
                 h6{
                     position: absolute;
-                left: 191px;
-                right: 872px;
+              
                 top: 4635px;
                 font-family: 'Roboto';
                 font-style: normal;
@@ -244,9 +244,9 @@
                 .text-two{
                     height: 50px;
                     position: absolute;
-                    right: 852px;
+                 
                     top: 4695px;
-                    left: 191px;
+                    width: 381px;
                     font-family: 'Roboto';
                     font-weight: 400;
                     font-size: 19px;

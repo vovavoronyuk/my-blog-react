@@ -1,6 +1,6 @@
 .container_pro{
     width: 100%;
-    
+    display: flex;
     
     
     h1{
@@ -16,10 +16,10 @@
         z-index: 2;
     }
     .first{
-        width: 620px;
+        
         position: absolute;
         height: 654px;
-        right: 55%;
+        
         top: 209px;
         z-index: 1;
        
@@ -28,7 +28,7 @@
         color: black;
         position: absolute;
         height: 20px;
-        left: 169px;
+       
         top: 41px;
         font-family: 'Roboto';
         font-style: normal;
@@ -38,41 +38,37 @@
     }
     .text_product{
         
-        position: absolute;
-        height: 60px;
-        
-        right: 4.59%;
-        top: 288px;
+        position: relative;
+        width: 100%;
+        left: 565px;
+        top: 246px;
         font-family: 'Roboto';
         font-style: normal;
         font-weight: 700;
-        font-size: 60px;
+        font-size: 50px;
         line-height: 60px;
         text-transform: uppercase;
     }
     .text_P{
-        position: absolute;
-    
-        
-        right: 2.2%;
-        top: 339px;
-        font-family: 'Roboto';
+        position: relative;
+        width: 100%;
+        left: 10px;
+        top: 304px;
+        font-family: "Roboto";
         font-style: normal;
         font-weight: 400;
-        font-size: 50px;
-       
+        font-size: 39px;
         letter-spacing: 6px;
         
     }
     .text_product1{
-        width: 622px;
         position: absolute;
-        right: 5.7%;
-        top: 416px;
-        font-family: 'Roboto';
+        top: 421px;
+        font-family: "Roboto";
         font-style: normal;
         font-weight: 700;
         font-size: 60px;
+        margin-left: 550px;
        
         
     }
@@ -84,7 +80,7 @@
         
         background: #000000;
         border-radius: 69px;
-        left: 768px;
+        margin-left: 588px;
         top: 709px;
         font-family: 'Roboto';
         font-style: normal;

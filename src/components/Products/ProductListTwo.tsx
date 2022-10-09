@@ -6,9 +6,9 @@ type Props = {}
 const ProductListTwo = (props: Props) => {
     return (
         <div className="container_pro_two">
-            <p className="we_part">WE PARTNER WITH</p>
-            <p className="forward">FORWARD-THINKING</p>
-            <p className="startups">STARTUPS</p>
+            <p className="we_part">
+                WE PARTNER WITH <span>FORWARD-THINKING</span> STARTUPS.
+            </p>
             <img src="/images/icons.png" alt="" className="icon_two" />
             <h1 className="perfect">THE PERFECT</h1>
             <h1 className="agency">AGENCY FOR YOUR BRAND</h1>

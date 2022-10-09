@@ -6,8 +6,10 @@ type Props = {}
 const ProductListThree = (props: Props) => {
     return (
         <div className="container_pro_three">
-            <h1>SELECTED</h1>
-            <h2>WORK</h2>
+            <h1>
+                SELECTED <span>WORK</span>
+            </h1>
+
             <div className="one">
                 <img src="images/1.png" alt="" />
                 <h5>

@@ -27,30 +27,6 @@ const ProductListFive = (props: Props) => {
                     * Over 8 years creating templates on Marketplace.
                 </p>
             </div>
-            <div className="fun">
-                <h1>
-                    FUN <span>FACTS</span>
-                </h1>
-                <div className="one">
-                    <img src="images/zvez.png" alt="" />
-                    <h1>8</h1>
-                    <p>Years on market</p>
-                </div>
-                <div className="two">
-                    <img src="images/duh.png" alt="" />
-                    <h1>110+</h1>
-                    <p>Years on market</p>
-                </div>
-                <div className="three">
-                    <h1>15</h1>
-                    <p>Years on market</p>
-                </div>
-                <div className="four">
-                    <img src="images/cop.png" alt="" />
-                    <h1>100+</h1>
-                    <p>Years on market</p>
-                </div>
-            </div>
         </div>
     )
 }

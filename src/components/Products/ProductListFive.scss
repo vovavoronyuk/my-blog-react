@@ -2,19 +2,18 @@
     width: 100%;
     display: flex;
     img{
-        position: absolute;
-        height: 615px;
-        left: 711px;
-        top: 5667px;
-
-         width: 729px
+        position: relative;
+    height: 615px;
+    left: 458px;
+    top: 5072px;
+    width: 729px;
     }
     .box{
-        position: absolute;
+        position: relative;
         height: 615px;
-        left: 0;
+        right: 797px;
         width: 712px;
-        top: 5667px;
+        top: 5072px;
         background: #020A0C;
         color: white;
         h1{
@@ -35,7 +34,7 @@
             }
         }
         .design{
-           margin: 79px 0 0 125px;
+           margin: 79px 0 0 90px;
            border-bottom: 1px solid white;
            width: 400px;
             font-family: 'Roboto';
@@ -48,7 +47,7 @@
             }
         }
         .lead{
-            margin: 30px 0 0 125px;
+            margin: 30px 0 0 90px;
            border-bottom: 1px solid white;
            width: 400px;
             font-family: 'Roboto';
@@ -61,7 +60,7 @@
             }
         }
         .photo{
-            margin: 30px 0 0 125px;
+            margin: 30px 0 0 90px;
             border-bottom: 1px solid white;
             width: 400px;
              font-family: 'Roboto';
@@ -73,9 +72,9 @@
               }
         }
         .illus{
-            margin: 30px 0 0 125px;
-            border-bottom: 1px solid white;
-            width: 400px;
+            margin: 30px 0 0 91px;
+    border-bottom: 1px solid white;
+    width: 435px;
              font-family: 'Roboto';
              font-style: normal;
              font-weight: 400;
@@ -86,7 +85,7 @@
         }
         .else{
            
-            margin: 40px 0 0 125px;
+            margin: 40px 0 0 100px;
             font-family: 'Roboto';
             font-style: normal;
             font-weight: 400;
@@ -94,127 +93,129 @@
         }
         
     }
-    .fun{
-        h1{position: absolute;
-            top: 6362px;
-            left: 604px;
-            font-family: 'Roboto';
-            font-style: normal;
-            font-weight: 700;
-            font-size: 48px;
-            text-align: center;
-            span{
-                font-family: 'Roboto';
-                font-style: normal;
-                font-weight: 400;
-                font-size: 37px;
-            }
-        }
-        .one{
-            img{
-                width: 25px;
-                height: 50px;
-                position: absolute;
-            left: 179px;
-            top: 6527px;
-            }
-            h1{
-                position: absolute;
-                left: 222px;
-                top: 6479px;
-                color: #020A0C;
-                font-family: 'Roboto';
-                font-style: normal;
-                font-weight: 700;
-                font-size: 53px;
-            }
-            p{
-                position: absolute;
-                left: 222px;
-                top: 6559px;
-                font-family: 'Roboto';
-                font-style: normal;
-                font-weight: 400;
-                font-size: 19px;
-            }
-        }
-        .two{
-            img{
-                width: 50px;
-                height: 50px;
-                position: absolute;
-            left: 493px;
-            top: 6527px;
-            }
-            h1{
-                position: absolute;
-                left: 547px;
-                top: 6479px;
-                color: #020A0C;
-                font-family: 'Roboto';
-                font-style: normal;
-                font-weight: 700;
-                font-size: 53px;
-            }
-            p{
-                position: absolute;
-                left: 548px;
-                top: 6559px;
-                font-family: 'Roboto';
-                font-style: normal;
-                font-weight: 400;
-                font-size: 19px;
-            }
-        }
-        .three{
-            h1{
-                position: absolute;
-                left: 850px;
-                top: 6479px;
-                color: #020A0C;
-                font-family: 'Roboto';
-                font-style: normal;
-                font-weight: 700;
-                font-size: 53px;
-            }
-            p{
-                position: absolute;
-                left: 850px;
-                top: 6559px;
-                font-family: 'Roboto';
-                font-style: normal;
-                font-weight: 400;
-                font-size: 19px;
-            }
-        }
-        .four{
-            img{
-                width: 50px;
-                height: 50px;
-                position: absolute;
-            left: 1115px;
-            top: 6527px;
-            }
-            h1{
-                position: absolute;
-                left: 1165px;
-                top: 6479px;
-                color: #020A0C;
-                font-family: 'Roboto';
-                font-style: normal;
-                font-weight: 700;
-                font-size: 53px;
-            }
-            p{
-                position: absolute;
-                left: 1165px;
-                top: 6559px;
-                font-family: 'Roboto';
-                font-style: normal;
-                font-weight: 400;
-                font-size: 19px;
-            }
-        }
-    }
+//     .fun{
+//         h1{position: relative;
+//             top: 5721px;
+//             right: 814px;
+//             font-family: "Roboto";
+//             font-style: normal;
+//             font-weight: 700;
+//             font-size: 48px;
+//             width: 274px;
+//             span{
+//                 font-family: 'Roboto';
+//                 font-style: normal;
+//                 font-weight: 400;
+//                 font-size: 37px;
+//             }
+//         }
+//         .one{
+//             img{
+//                 width: 25px;
+//                 height: 50px;
+//                 position: relative;
+                
+//                 top: 5875px;
+//             }
+//             h1{
+//                 position: relative;
+//                 right: 1140px;
+//                 top: 5767px;
+//                 color: #020A0C;
+//                 font-family: 'Roboto';
+//                 font-style: normal;
+//                 font-weight: 700;
+//                 font-size: 53px;
+//             }
+//             p{
+//                 position: relative;
+//                 right: 1211px;
+//                 top: 5725px;
+//                 font-family: 'Roboto';
+//                 font-style: normal;
+//                 font-weight: 400;
+//                 font-size: 19px;
+//             }
+//         }
+//         .two{
+//             img{
+//                 width: 50px;
+//                 height: 50px;
+//                 position: relative;
+                
+//                 top: 5629px;
+//             }
+//             h1{
+//                 position: relative;
+                
+//                 right: 874px;
+//                 top: 5525px;
+//                 color: #020A0C;
+//                 font-family: "Roboto";
+//                 font-style: normal;
+//                 font-weight: 700;
+//                 font-size: 53px;
+//             }
+//             p{
+//                 position: relative;
+//                 right: 882px;
+//                 top: 5472px;
+//                 font-family: "Roboto";
+//                 font-style: normal;
+//                 font-weight: 400;
+//                 font-size: 19px;
+//             }
+//         }
+//         .three{
+//             h1{
+//                 position: relative;
+//                 right: 570px;
+//                 top: 5345px;
+//                 color: #020A0C;
+//                 font-family: "Roboto";
+                
+//                 font-weight: 700;
+//                 font-size: 53px;
+//             }
+//             p{
+//                 position: relative;
+//                 right: 596px;
+//                 top: 5291px;
+//                 font-family: "Roboto";
+                
+//                 font-weight: 400;
+//                 font-size: 19px;
+//             }
+//         }
+//         .four{
+//             img{
+//                 width: 50px;
+//                 height: 50px;
+//                 position: relative;
+               
+//                 top: 5199px;
+//             }
+//             h1{
+//                 position: relative;
+                
+//                 right: 274px;
+//                 top: 5092px;
+//                 color: #020A0C;
+//                 font-family: "Roboto";
+//                 font-style: normal;
+//                 font-weight: 700;
+//                 font-size: 53px;
+//             }
+//             p{
+//                 position: relative;
+//                 right: 282px;
+//                 top: 5039px;
+//                 font-family: "Roboto";
+//                 font-style: normal;
+//                 font-weight: 400;
+//                 font-size: 19px;
+//             }
+//         }
+//     }
 
 }
