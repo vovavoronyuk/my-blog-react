@@ -17,6 +17,9 @@ import ApplePage from 'pages/ProductPage/ApplePage'
 import FlyingPage from 'pages/ProductPage/FlyingPage'
 import WebFontPage from 'pages/ProductPage/WebFontPage'
 
+import NewsPageOne from 'pages/ProductPage/NewsPageOne'
+import NewsPageTwo from 'pages/ProductPage/NewsPageTwo'
+
 type Props = {}
 
 const Main = (props: Props) => {
@@ -47,6 +50,8 @@ const Main = (props: Props) => {
                     <Route path="Apple" element={<ApplePage />} />
                     <Route path="Flying" element={<FlyingPage />} />
                     <Route path="Webfont" element={<WebFontPage />} />
+                    <Route path="post-one" element={<NewsPageOne />} />
+                    <Route path="post-two" element={<NewsPageTwo />} />
                 </Routes>
             </Container>
         </>

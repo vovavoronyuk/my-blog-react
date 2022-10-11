@@ -1,4 +1,3 @@
-import { Article } from '@mui/icons-material'
 import React from 'react'
 import { Link } from 'react-router-dom'
 import './NewsPage.scss'
@@ -11,7 +10,7 @@ const NewsPage = (props: Props) => {
             <section className="flex">
                 <article className=" w-full ">
                     <div>
-                        <Link to="/post/luxembourg-and-rwanda-have-joined-forces-to-promote-sustainable-finance">
+                        <Link to="/post-one" className="link">
                             <p className="cursor">World</p>
                         </Link>
                         <h2 className="text-2 ">
@@ -31,7 +30,7 @@ const NewsPage = (props: Props) => {
                 </article>
                 <article className="w-full ">
                     <div>
-                        <Link to="post/as-the-economic-crisis-in-sri-lanka-worsens-two-men-die-while-waiting-in-a-fuel-line">
+                        <Link to="/post-two" className="link">
                             <p className="cursor">World</p>
                         </Link>
                         <h2 className="text-2 ">
