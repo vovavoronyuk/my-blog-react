@@ -6,7 +6,7 @@ type Props = {}
 const NewsPageOne = (props: Props) => {
     return (
         <div className="pageOne">
-            <img src="images/123.jpg" alt="" />
+            <img src="images/123.jpg" alt="text" />
             <article>
                 <h1>
                     Luxembourg and Rwanda have joined forces to promote

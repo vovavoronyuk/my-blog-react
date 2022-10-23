@@ -6,7 +6,7 @@ type Props = {}
 const NewsPageTwo = (props: Props) => {
     return (
         <div className="pageOne">
-            <img src="images/321.png" alt="" />
+            <img src="images/321.png" alt="text" />
             <article>
                 <h1>
                     As the economic crisis in Sri Lanka worsens, two men die
