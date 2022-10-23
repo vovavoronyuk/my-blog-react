@@ -26,7 +26,7 @@ const NewsPage = (props: Props) => {
                             finance.
                         </p>
                     </div>
-                    <img src="https://cdn.sanity.io/images/l63eam7i/production/1821dffb0cef4dfb88fb2141e408038b6dcc4ec6-1200x769.jpg" />
+                    <img src="images/123.jpg" />
                 </article>
                 <article className="w-full ">
                     <div>
@@ -44,7 +44,7 @@ const NewsPage = (props: Props) => {
                             two separate sections of the nation.
                         </p>
                     </div>
-                    <img src="https://cdn.sanity.io/images/l63eam7i/production/d9198d0ebb7eedf9a66b7ad8892d95d1f17109d7-1024x683.png" />
+                    <img src="images/321.png" />
                 </article>
             </section>
         </div>

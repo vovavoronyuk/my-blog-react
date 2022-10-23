@@ -6,10 +6,7 @@ type Props = {}
 const NewsPageOne = (props: Props) => {
     return (
         <div className="pageOne">
-            <img
-                src="https://cdn.sanity.io/images/l63eam7i/production/1821dffb0cef4dfb88fb2141e408038b6dcc4ec6-1200x769.jpg"
-                alt=""
-            />
+            <img src="images/123.jpg" alt="" />
             <article>
                 <h1>
                     Luxembourg and Rwanda have joined forces to promote

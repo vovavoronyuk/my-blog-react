@@ -6,10 +6,7 @@ type Props = {}
 const NewsPageTwo = (props: Props) => {
     return (
         <div className="pageOne">
-            <img
-                src="https://cdn.sanity.io/images/l63eam7i/production/d9198d0ebb7eedf9a66b7ad8892d95d1f17109d7-1024x683.png"
-                alt=""
-            />
+            <img src="images/321.png" alt="" />
             <article>
                 <h1>
                     As the economic crisis in Sri Lanka worsens, two men die
