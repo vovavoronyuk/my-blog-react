@@ -26,7 +26,7 @@ const NewsPage = (props: Props) => {
                             finance.
                         </p>
                     </div>
-                    <img src="images/123.jpg" />
+                    <img src="images/123.jpg" alt="text" />
                 </article>
                 <article className="w-full ">
                     <div>
@@ -44,7 +44,7 @@ const NewsPage = (props: Props) => {
                             two separate sections of the nation.
                         </p>
                     </div>
-                    <img src="images/321.png" />
+                    <img src="images/321.png" alt="text" />
                 </article>
             </section>
         </div>
